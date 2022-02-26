@@ -1,39 +1,35 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Engineer',
+  siteTitle: 'Abhishek Verma | Software Engineer',
   siteDescription:
-    'Chandrika Deb is a Software Engineer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Abhishek Verma is a Software Engineer at Bridge Solutions Group, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, face mask, face mask detection, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Abhishek Verma, Abhishek, Verma, abhishek460729, software engineer, bookmart, web developer, java, jamshedpur, bridge solutions group, srm',
+  siteUrl: 'https://abhishekverma.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
+  name: 'Abhishek Verma',
   location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
+  email: 'abhishek.verma4607@gmail.com',
   github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  twitterHandle: '@Abhishek460729',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://github.com/abhi460729',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      url: 'https://www.instagram.com/abhishekverma3912/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/Abhishek460729',
     },
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/abhishekverma4607',
+    }
   ],
 
   navLinks: [

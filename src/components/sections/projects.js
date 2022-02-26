@@ -146,10 +146,8 @@ const Projects = ({ data }) => {
 
   return (
     <StyledContainer>
-      <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
-      <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-        View Complete List of Projects/Codes
-      </StyledArchiveLink>
+      <StyledTitle ref={revealTitle}>Certifications</StyledTitle>
+      
 
       <StyledGrid>
         <TransitionGroup className="projects">
